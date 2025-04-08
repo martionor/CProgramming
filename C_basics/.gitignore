@@ -1,0 +1,29 @@
+# Object files
+*.o
+
+# Executable files
+a.out
+*.out
+*.exe
+
+# Compiled libraries
+*.a
+*.so
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Backup files
+*~
+*.bak
+
+# Temporary files created by editors (e.g., Vim, Emacs)
+*.swp
